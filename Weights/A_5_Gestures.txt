@@ -1,0 +1,7 @@
+5 gestures performed:
+---------------------
+1) Fist
+2) Rest
+3) Open-Hand
+4) Wave-In
+5) Wave-Out
