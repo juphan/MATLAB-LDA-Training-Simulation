@@ -9,4 +9,4 @@ A MATLAB script used for training and testing a machine learning model, using a 
    - Cross validates results by testing each set of data and then averaging them for an ACA
 - Generates weights for the trained LDA model and saves them in 2 text files (named Wg.txt and Cg.txt)
    - These weights can be loaded into our Tiva Code to make LDA predictions
-- Currently set to train a ML model to recognize 7 gestures
+- Currently, there are MATLAB scripts to train/simulate a ML model to recognize either 5 gestures or 7 gestures
